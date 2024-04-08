@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning electrical engineering and automatizaton
 - 💞️ I’m looking to collaborate on robotics
-- 📫 How to reach me? By email：yuyanghuang007@outlook.com
+- 📫 How to reach me? By email：yuyanghuang@protonmail.com
 
 <!---
 Apollo-007/Apollo-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
