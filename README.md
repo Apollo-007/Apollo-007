@@ -8,7 +8,9 @@
 
  ## 🚩 Status
  
-![Apollo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apollo-007&show_icons=true&include_all_commits=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apollo-007&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Apollo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apollo-007&show_icons=true&include_all_commits=true&theme=tokyonight) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apollo-007&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apollo-007&theme=github_dark)
 <!---
